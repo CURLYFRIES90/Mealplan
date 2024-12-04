@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	overflow-x: hidden;/* No side scrolling */
+    font-family: Arial;
+	
+}
+
+
+/* Banner */
+.fitness {
+    background-size: cover;
+    position: relative;
+    height: 510px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: -80px;
+    margin-left: -10px;
+   
+}
+
+#one {
+    background-color: #8ba285 ;
+    margin: 20px 0;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+
+
+
+/* H2 */
+h2 {
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+label {
+    width: 100px;
+    display: inline-block;
+}
+
+.mealplan {
+    
+    padding: 4px;
+    border-radius: 10px;
+    
+}
+
+.mealplan label {
+    width: 70px;
+    height: 40px;
+}
+
+h3 {
+    font-size: 60px;
+    letter-spacing: 10px;
+    margin-left: 60px;
+   
+}
+
+input {
+    border-radius: 5px;
+    width: 200px;
+    box-sizing: border-box;
+    
+    
+}
+
+.mealplan input {
+    height: 35px;
+}
+
+
+
+.mealplan  {
+ background-color: #e7dad7;
+ width: 900px;
+}
+
+h4 {
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 40px;
+    
+}
+
+button {
+    background-color: white;
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 30px;
+   
+}
+
+button:hover {
+    background-color: #8ba285;
+}
+ 
